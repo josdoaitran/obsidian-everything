@@ -47,3 +47,7 @@ https://github.com/SilentVoid13/Templater/discussions/888
         .join('\n')
 %><% headers %>
 ```
+
+# Collumn Template
+- 
+https://github.com/efemkay/obsidian-modular-css-layout
