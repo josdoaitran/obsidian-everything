@@ -4,6 +4,8 @@ Everything notes and collections about Obsidian
 # Plugins collection
 - Templater
 - Sync-Remote
+- multi-column-markdown
+https://github.com/ckRobinson/multi-column-markdown
 
 # Template collections
 
