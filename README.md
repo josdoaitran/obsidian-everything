@@ -6,6 +6,8 @@ Everything notes and collections about Obsidian
 - Sync-Remote
 - multi-column-markdown
 https://github.com/ckRobinson/multi-column-markdown
+- excalidraw
+https://forum.obsidian.md/t/excalidraw-full-featured-sketching-plugin-in-obsidian/17367/1
 
 # Template collections
 
