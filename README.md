@@ -1,9 +1,13 @@
 # obsidian-everything
-Everything notes and collections about Obsidian
+- Everything notes and collections about Obsidian
+- Sync-up free with Dropbox or OneDrive using Remote Sync
+- Sync-up multidevice and Plugin with: `Sync-Config Dir`: `Enable`
 
 # Plugins collection
 - Templater
 - Sync-Remote
+- Minimal Theme
+https://github.com/kepano/obsidian-minimal
 - multi-column-markdown
 https://github.com/ckRobinson/multi-column-markdown
 - excalidraw
